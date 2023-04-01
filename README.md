@@ -1,2 +1,2 @@
 # finans-clone
-Projecto inspiraadona aula de bootstrap co curso de Web Full Stack
+Projecto inspirado na aula de bootstrap do curso de Web Full Stack
